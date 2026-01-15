@@ -28,7 +28,7 @@
   color: #fff;
   margin-top: 20px;
 }
-.content_info {
+.content__info {
   font-family: Inter;
   font-weight: 400;
   font-size: 16px;
@@ -50,7 +50,7 @@
     font-size: 24px;
     line-height: 34px;
   }
-  .content_info {
+  .content__info {
     font-size: 16px;
     line-height: 163%;
   }
