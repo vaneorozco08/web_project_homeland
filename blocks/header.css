@@ -6,21 +6,7 @@
   padding-top: 24px;
   margin-bottom: 40px;
 }
-.logo {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  padding-top: 34px;
-  margin: auto;
-}
-.logo__imagen {
-  width: 32px;
-  height: 32px;
-  margin-bottom: 10px;
-}
-.logo__tripleten {
-  margin: auto;
-}
+
 .header__title {
   font-family: inter;
   font-weight: 700;
