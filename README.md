@@ -18,4 +18,4 @@ Proyecto responsivo para conocer un poco de historia de otros paises.
 
 ## Enlace Github
 
-URL (https://github.com/vaneorozco08/web_project_homeland)
+URL (https://vaneorozco08.github.io/web_project_homeland/)
