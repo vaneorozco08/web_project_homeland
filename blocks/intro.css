@@ -1,16 +1,16 @@
-.content {
+.intro {
   max-width: 984px;
   opacity: 1;
   margin: auto;
 }
-.content__title {
+.intro__title {
   color: #fff;
   font-family: inter;
   font-size: 54px;
   font-weight: 900;
   line-height: 58px;
 }
-.content__note {
+.intro__note {
   font-family: Inter;
   font-weight: 400;
   font-size: 24px;
@@ -19,7 +19,7 @@
   color: #fff;
   margin-top: 20px;
 }
-.content__author {
+.intro__author {
   font-family: Inter;
   font-weight: 400;
   font-size: 24px;
@@ -28,7 +28,7 @@
   color: #fff;
   margin-top: 20px;
 }
-.content__info {
+.intro__info {
   font-family: Inter;
   font-weight: 400;
   font-size: 16px;
@@ -37,30 +37,30 @@
   margin-top: 20px;
 }
 @media screen and (max-width: 768px) {
-  .content__title {
+  .intro__title {
     font-size: 45px;
     line-height: 49px;
     max-width: 530px;
   }
-  .content__note {
+  .intro__note {
     font-size: 24px;
     line-height: 34px;
   }
-  .content__author {
+  .intro__author {
     font-size: 24px;
     line-height: 34px;
   }
-  .content__info {
+  .intro__info {
     font-size: 16px;
     line-height: 163%;
   }
 }
 @media screen and (max-width: 320px) {
-  .content__title {
+  .intro__title {
     font-size: 32px;
     line-height: 35px;
   }
-  .content__note {
+  .intro__note {
     font-size: 24px;
     line-height: 30px;
   }
