@@ -58,6 +58,9 @@
   line-height: 1.63;
   color: #ffffff;
 }
+.places__info_text {
+  margin-bottom: 16px;
+}
 .places__buttom {
   text-decoration: none;
   display: inline-block;
